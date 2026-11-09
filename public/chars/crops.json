@@ -1,0 +1,148 @@
+{
+ "_note": "[centre x, centre y, head height], fractions of the image. Centre = between the eyes and the chin. Measured by eye on the 2x cut-outs.",
+ "popy_main": [
+  0.46,
+  0.238,
+  0.24
+ ],
+ "popy_laugh": [
+  0.46,
+  0.238,
+  0.24
+ ],
+ "popy_wink": [
+  0.46,
+  0.238,
+  0.24
+ ],
+ "popy_kiss": [
+  0.46,
+  0.238,
+  0.24
+ ],
+ "popy_full": [
+  0.43,
+  0.181,
+  0.1
+ ],
+ "mew_main": [
+  0.57,
+  0.203,
+  0.175
+ ],
+ "mew_laugh": [
+  0.57,
+  0.203,
+  0.175
+ ],
+ "mew_wink": [
+  0.57,
+  0.203,
+  0.175
+ ],
+ "mew_full": [
+  0.525,
+  0.134,
+  0.095
+ ],
+ "halo_main": [
+  0.4918,
+  0.245,
+  0.155
+ ],
+ "halo_laugh": [
+  0.4918,
+  0.245,
+  0.155
+ ],
+ "halo_wink": [
+  0.4918,
+  0.245,
+  0.155
+ ],
+ "halo_kiss": [
+  0.4918,
+  0.245,
+  0.155
+ ],
+ "halo_full": [
+  0.503,
+  0.152,
+  0.095
+ ],
+ "popy_full_laugh": [
+  0.43,
+  0.181,
+  0.1
+ ],
+ "popy_full_wink": [
+  0.43,
+  0.181,
+  0.1
+ ],
+ "popy_full_kiss": [
+  0.43,
+  0.181,
+  0.1
+ ],
+ "popy_full_soft": [
+  0.43,
+  0.181,
+  0.1
+ ],
+ "popy_full_smug": [
+  0.43,
+  0.181,
+  0.1
+ ],
+ "mew_full_laugh": [
+  0.525,
+  0.134,
+  0.095
+ ],
+ "mew_full_wink": [
+  0.525,
+  0.134,
+  0.095
+ ],
+ "mew_full_kiss": [
+  0.525,
+  0.134,
+  0.095
+ ],
+ "mew_full_soft": [
+  0.525,
+  0.134,
+  0.095
+ ],
+ "mew_full_smug": [
+  0.525,
+  0.134,
+  0.095
+ ],
+ "halo_full_laugh": [
+  0.503,
+  0.152,
+  0.095
+ ],
+ "halo_full_wink": [
+  0.503,
+  0.152,
+  0.095
+ ],
+ "halo_full_kiss": [
+  0.503,
+  0.152,
+  0.095
+ ],
+ "halo_full_soft": [
+  0.503,
+  0.152,
+  0.095
+ ],
+ "halo_full_smug": [
+  0.503,
+  0.152,
+  0.095
+ ]
+}

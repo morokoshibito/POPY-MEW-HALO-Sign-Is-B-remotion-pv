@@ -1,0 +1,56 @@
+{
+ "halo_full": [],
+ "halo_kiss": [
+  "bottom"
+ ],
+ "halo_laugh": [
+  "bottom"
+ ],
+ "halo_main": [
+  "bottom"
+ ],
+ "halo_wink": [
+  "bottom"
+ ],
+ "mew_full": [],
+ "mew_laugh": [
+  "top",
+  "bottom"
+ ],
+ "mew_main": [
+  "top",
+  "bottom"
+ ],
+ "mew_wink": [
+  "top",
+  "bottom"
+ ],
+ "popy_full": [],
+ "popy_kiss": [
+  "bottom"
+ ],
+ "popy_laugh": [
+  "bottom"
+ ],
+ "popy_main": [
+  "bottom"
+ ],
+ "popy_wink": [
+  "bottom"
+ ],
+ "popy_full_laugh": [],
+ "popy_full_wink": [],
+ "popy_full_kiss": [],
+ "popy_full_soft": [],
+ "popy_full_smug": [],
+ "mew_full_laugh": [],
+ "mew_full_wink": [],
+ "mew_full_kiss": [],
+ "mew_full_soft": [],
+ "mew_full_smug": [],
+ "halo_full_laugh": [],
+ "halo_full_wink": [],
+ "halo_full_kiss": [],
+ "halo_full_soft": [],
+ "halo_full_smug": []
+}

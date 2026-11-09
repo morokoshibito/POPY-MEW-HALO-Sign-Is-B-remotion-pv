@@ -1,0 +1,43 @@
+サインはB lyric PV — Source-Available, Non-Commercial, No-Redistribution License
+Copyright (c) 2026 Albert. All rights reserved.
+
+This license applies to the source code in this repository (all .ts, .tsx, .mjs and .json files,
+scripts, and documentation written for this project). It does NOT apply to third-party material
+listed under "Excluded material" below.
+
+1. Permitted
+   You may, free of charge, for personal and non-commercial purposes only:
+   a) view, download and run the code;
+   b) study it and modify it for your own private use;
+   c) fork this repository on GitHub, to the extent permitted by the GitHub Terms of Service.
+
+2. Not permitted
+   Without the prior written permission of the copyright holder, you may not:
+   a) use the code, or any modified version of it, for any commercial purpose, including but not
+      limited to selling it, offering it as a paid service, or using it to produce commissioned or
+      monetised work;
+   b) redistribute, publish, sublicense or otherwise make available the code or any modified
+      version of it, in source or compiled form, by any means other than a GitHub fork as described
+      in 1(c);
+   c) remove or alter this license or the copyright notice.
+
+3. Videos you render
+   Videos rendered with this code may be shared for non-commercial purposes, provided that they
+   respect the rights of the owners of the music, lyrics, character and other material they contain.
+   This license grants no rights in any of that material.
+
+4. Excluded material
+   The following are not licensed under this file and remain the property of their respective owners:
+   - fonts in public/fonts/ (M PLUS Rounded 1c and Yusei Magic, each under its own license,
+     the SIL Open Font License 1.1);
+   - the characters POPY, MEW and HALO and all images derived from them (public/chars/, public/bg/,
+     public/fx/);
+   - the song "サインはB", its lyrics, the vocal recording and data derived from them
+     (public/audio/, lyrics/).
+
+5. No warranty
+   THE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL
+   THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF
+   THE CODE.
+
+For permission beyond these terms, contact the copyright holder via the repository's GitHub profile.

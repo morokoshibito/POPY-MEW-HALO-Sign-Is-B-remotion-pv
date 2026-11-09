@@ -1,0 +1,98 @@
+OK   zoom/roll    0.00-   2.64 preroll                            in   110 mid   60 out   357 min   59  
+OK   pan-y        2.64-   3.00 intro ア                            in   959 mid  163 out    11 min    0  
+OK   pan-y        3.00-   3.38 intro ナ                            in  3158 mid  238 out     8 min    0  
+OK   pan-y        3.38-   3.62 intro タ                            in  2978 mid  720 out    71 min   71  
+FAIL zoom/roll    3.62-   4.06 intro の                            in  1725 mid  448 out    60 min   60  CUT-FLIP roll changes direction across the cut
+OK   zoom/roll    4.06-   5.81 intro アイドル mew                     in   283 mid   63 out  3564 min   54  
+OK   zoom/roll    5.81-   6.94 intro サインは                         in  3920 mid  296 out    75 min   24  
+OK   zoom/roll    6.94-   7.82 intro trio                         in   414 mid   74 out    46 min   45  
+OK   zoom/roll    7.82-   8.34 intro CHU mew                      in   514 mid  305 out  2661 min  219  
+OK   zoom/roll    8.34-  13.58 intro title                        in   203 mid   21 out  2073 min   21  
+OK   zoom/roll   13.58-  19.12 credits [turn]                     in   402 mid   22 out  1359 min   22  
+OK   pan-x       19.12-  21.35 portrait popy                      in   408 mid   72 out   323 min   72  
+FAIL pan-x       21.35-  24.60 portrait mew                       in   396 mid   71 out   341 min   71  CUT-FLIP translation turns back across the cut (cos -0.99)
+FAIL pan-x       24.60-  29.00 portrait halo                      in   380 mid   71 out  1196 min   70  CUT-FLIP translation turns back across the cut (cos -0.99); MONOTONE 3 sideways pans in a row
+FAIL zoom/roll   29.00-  30.08 call wall                          in   856 mid  237 out  1998 min  123  REVERSE zoom changes direction
+FAIL zoom/roll   30.08-  37.75 pre stack [chain 4] [alt]          in    99 mid   50 out    48 min   19  STALL 28 frames < 20 px/s (min 19)
+OK   pan-x       37.75-  38.53 pendulum 君も！ popy [alt]            in  7275 mid  407 out  6267 min  220  
+OK   pan-x       38.53-  39.21 pendulum 君も！ mew [alt]             in  8562 mid  471 out  8014 min  278  
+FAIL pan-x       39.21-  39.96 pendulum 君も！ halo [alt]            in  7038 mid  409 out  6517 min  237  MONOTONE 3 sideways pans in a row
+FAIL zoom/roll   39.96-  41.12 omachi お待ちどうさま                     in   167 mid 2458 out    97 min   22  REVERSE zoom changes direction; FLAT-IN entry 167 vs middle 2458 px/s (want a fast arrival); CUT-FLIP translation turns back across the cut (cos -0.97)
+OK   pan-x       41.12-  42.09 capsules yellow halo [spring]      in   441 mid   81 out  3594 min   26  
+OK   pan-x       42.09-  43.46 capsules red popy [spring]         in  3103 mid   71 out  2261 min   26  
+FAIL pan-x       43.46-  46.72 capsules pink mew [spring]         in  2840 mid   32 out  2110 min   26  MONOTONE 3 sideways pans in a row
+FAIL pan-x       46.72-  48.92 capsules red popy [spring]         in  2795 mid   26 out  1259 min   22  MONOTONE 4 sideways pans in a row
+OK   zoom/roll   48.92-  50.88 colour trio ここに来たなら踊らにゃ            in   398 mid   67 out  2442 min   37  
+OK   zoom/roll   50.88-  52.10 cards                              in   246 mid   55 out    37 min   36  
+OK   zoom/roll   52.10-  54.79 B wide                             in   578 mid   88 out  2603 min   87  
+OK   pan-x       54.79-  57.45 B close / whip / back [path]       in  1678 mid 1478 out   157 min   70  
+OK   zoom/roll   57.45-  63.00 B carousel                         in   303 mid   28 out   811 min   28  
+OK   pan-x       63.00-  68.54 chorus wide                        in   440 mid   71 out  1308 min   71  
+FAIL -           68.54-  69.79 solo costume popy                                                          NO-CAM (motion not declared: cannot be measured)
+FAIL -           69.79-  71.00 solo arm popy                                                              NO-CAM (motion not declared: cannot be measured)
+FAIL -           71.00-  72.71 solo upper popy                                                            NO-CAM (motion not declared: cannot be measured)
+OK   zoom/roll   72.71-  76.69 bakures                            in   353 mid  136 out    45 min   42  
+OK   pan-y       76.69-  77.06 intro ア                            in  1152 mid  191 out    12 min    0  
+OK   pan-y       77.06-  77.43 intro ナ                            in  3669 mid  305 out    21 min    8  
+OK   pan-y       77.43-  77.68 intro タ                            in  3548 mid  727 out     0 min    0  
+OK   zoom/roll   77.68-  78.12 intro の                            in  1605 mid  390 out    60 min   60  
+OK   zoom/roll   78.12-  79.86 intro アイドル halo                    in   267 mid   64 out  3049 min   54  
+OK   zoom/roll   79.86-  81.00 intro サインは                         in  4577 mid  338 out    74 min   25  
+OK   zoom/roll   81.00-  81.88 intro trio                         in   487 mid   80 out    46 min   45  
+OK   zoom/roll   81.88-  82.40 intro CHU halo                     in   528 mid  295 out  2341 min  240  
+FAIL pan-x       82.40-  90.50 spotlight tour [path]              in   512 mid  876 out  1372 min   15  STALL 7 frames < 20 px/s (min 15)
+FAIL zoom/roll   90.50-  98.17 pre stack [chain 4] [alt] [turn]   in   110 mid   51 out    51 min   18  STALL 29 frames < 20 px/s (min 18)
+OK   pan-x       98.17-  98.87 pendulum 君と！ mew [alt]             in  6148 mid  397 out  9209 min  259  
+OK   pan-x       98.87-  99.56 pendulum 君と！ halo [alt]            in  7417 mid  733 out  8269 min  284  
+FAIL pan-x       99.56- 100.38 pendulum 今を！ popy [alt]            in  7954 mid  416 out  8056 min  201  MONOTONE 3 sideways pans in a row
+FAIL zoom/roll  100.38- 101.46 omachi 楽しまなきゃ                      in   176 mid 2725 out   106 min   25  REVERSE zoom changes direction; FLAT-IN entry 176 vs middle 2725 px/s (want a fast arrival); CUT-FLIP translation turns back across the cut (cos -0.98)
+OK   pan-x      101.46- 102.60 capsules yellow halo [spring]      in   408 mid   62 out  4011 min   28  
+OK   pan-x      102.60- 103.97 capsules red popy [spring]         in  2758 mid   59 out  2976 min   26  
+FAIL pan-x      103.97- 107.07 capsules pink mew [spring]         in  2548 mid   32 out  1838 min   26  MONOTONE 3 sideways pans in a row
+FAIL pan-x      107.07- 109.29 capsules red popy [spring]         in  2926 mid   26 out  1226 min   22  MONOTONE 4 sideways pans in a row
+OK   zoom/roll  109.29- 111.21 colour trio なりふり構わずに               in   402 mid   67 out  2507 min   38  
+OK   zoom/roll  111.21- 112.44 cards                              in   242 mid   55 out    36 min   36  
+OK   pan-x      112.44- 115.21 B wide                             in   501 mid   88 out  3060 min   87  
+OK   pan-x      115.21- 117.87 B close / whip / back [path]       in  1784 mid 1636 out   186 min   34  
+OK   zoom/roll  117.87- 123.42 B carousel                         in   284 mid  109 out   881 min   28  
+OK   pan-x      123.42- 128.96 chorus wide                        in   410 mid   71 out  1225 min   71  
+FAIL -          128.96- 130.21 solo costume popy                                                          NO-CAM (motion not declared: cannot be measured)
+FAIL -          130.21- 131.42 solo arm popy                                                              NO-CAM (motion not declared: cannot be measured)
+FAIL -          131.42- 133.12 solo upper popy                                                            NO-CAM (motion not declared: cannot be measured)
+OK   zoom/roll  133.12- 137.08 bakures                            in   355 mid  136 out    46 min   42  
+OK   pan-x      137.08- 139.85 portrait popy                      in   396 mid   72 out   320 min   71  
+FAIL pan-x      139.85- 142.61 portrait mew                       in   396 mid   72 out   320 min   71  CUT-FLIP translation turns back across the cut (cos -0.99)
+FAIL zoom/roll  142.61- 145.38 portrait halo                      in   396 mid   72 out  1403 min   71  CUT-FLIP translation turns back across the cut (cos -0.99)
+OK   zoom/roll  145.38- 150.83 spotlight show                     in   309 mid   39 out   257 min   39  
+OK   zoom/roll  150.83- 156.38 interlude photo session            in   167 mid   32 out    33 min   32  
+FAIL -          156.38- 156.71 bridge halo wink                                                           NO-CAM (motion not declared: cannot be measured)
+FAIL -          156.71- 157.04 bridge popy kiss                                                           NO-CAM (motion not declared: cannot be measured)
+FAIL -          157.04- 157.58 bridge mew wink                                                            NO-CAM (motion not declared: cannot be measured)
+FAIL pan-y      157.58- 158.98 bridge trio                        in   668 mid   45 out   574 min   17  STUTTER 2 slow-downs (1 U allowed); REVERSE translation goes back against the shot direction
+OK   zoom/roll  158.98- 161.75 colour trio                        in   390 mid   38 out  2379 min   26  
+OK   pan-x      161.75- 167.30 bridge empty stage                 in   174 mid   56 out  3000 min   55  
+OK   pan-y      167.30- 172.75 bridge big words [path]            in  1950 mid   38 out  3600 min   21  
+OK   pan-y      172.75- 175.46 single mew                         in   587 mid  116 out   451 min  113  
+OK   pan-y      175.46- 178.17 single halo                        in   618 mid  116 out   521 min  113  
+OK   pan-y      178.17- 180.62 single popy                        in   545 mid  116 out   472 min  114  
+OK   zoom/roll  180.62- 183.76 B3 kimino / sairiumu               in   526 mid  116 out  1781 min  115  
+OK   pan-x      183.76- 189.17 chorus wide                        in   424 mid   71 out  1323 min   71  
+FAIL -          189.17- 190.42 solo costume mew                                                           NO-CAM (motion not declared: cannot be measured)
+FAIL -          190.42- 191.60 solo arm halo                                                              NO-CAM (motion not declared: cannot be measured)
+FAIL -          191.60- 194.54 solo faces mew                                                             NO-CAM (motion not declared: cannot be measured)
+FAIL -          194.54- 195.62 solo legs popy                                                             NO-CAM (motion not declared: cannot be measured)
+FAIL -          195.62- 197.15 solo costume popy                                                          NO-CAM (motion not declared: cannot be measured)
+FAIL -          197.15- 198.71 solo upper popy                                                            NO-CAM (motion not declared: cannot be measured)
+OK   zoom/roll  198.71- 202.87 bakures                            in   353 mid  130 out    40 min   37  
+OK   pan-y      202.87- 203.23 intro ア                            in  1666 mid  632 out    24 min   24  
+OK   pan-y      203.23- 203.60 intro ナ                            in  3958 mid  680 out    14 min    7  
+OK   pan-y      203.60- 203.85 intro タ                            in  4080 mid 1040 out   130 min  130  
+FAIL zoom/roll  203.85- 204.29 intro の                            in  1658 mid  415 out    60 min   60  CUT-FLIP roll changes direction across the cut
+OK   zoom/roll  204.29- 206.03 intro アイドル popy                    in   275 mid   64 out  3691 min   54  
+OK   zoom/roll  206.03- 207.17 intro サインは                         in  3784 mid  287 out    76 min   23  
+OK   zoom/roll  207.17- 208.05 intro trio                         in   401 mid   73 out    46 min   45  
+OK   zoom/roll  208.05- 208.57 intro CHU popy                     in   504 mid  316 out  2812 min  224  
+OK   pan-x      208.57- 216.83 end credits stage                  in   130 mid   33 out    31 min   31  
+OK   pan-x      216.83- 224.20 finale [path]                      in   476 mid   42 out    35 min   26  
+
+96 shots, 34 with issues. Sideways-pan shots: 36% (reference 28 %). Reference medians: in 740, mid 95, out 395 px/s; no stalls.

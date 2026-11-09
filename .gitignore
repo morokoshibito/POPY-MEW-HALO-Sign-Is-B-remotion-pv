@@ -1,0 +1,38 @@
+# ---- dependencies / build output
+node_modules/
+out/
+build/
+dist/
+.remotion/
+*.tsbuildinfo
+
+# ---- scratch (self-check stills, probes, temporary bundles)
+tmp/
+*.log
+*.jsonl
+
+# ---- Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ---- audio / video: renders and the song stay out of git (copyright and size)
+# (images are NOT ignored: public/chars, public/bg, public/fx and every other picture asset are tracked)
+public/audio/
+*.mp4
+*.mov
+*.webm
+*.wav
+*.flac
+*.m4a
+*.mp3
+
+# ---- editor / OS
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

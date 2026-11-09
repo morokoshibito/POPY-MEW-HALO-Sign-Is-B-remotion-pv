@@ -1,0 +1,22 @@
+{
+  "name": "sign-b-yumenokessho-pv",
+  "version": "0.1.0",
+  "private": true,
+  "description": "サインはB cover MV (POPY / MEW / HALO) - frame = f(t)",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit -p ."
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.277",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.539",
+    "three": "0.170.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "@types/three": "0.170.0",
+    "typescript": "5.6.3"
+  }
+}
