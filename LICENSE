@@ -27,13 +27,19 @@ listed under "Excluded material" below.
    This license grants no rights in any of that material.
 
 4. Excluded material
-   The following are not licensed under this file and remain the property of their respective owners:
+   This repository contains third-party material that is included only so that the project can be
+   previewed and run. The copyright holder of this repository does not own it, and it is NOT
+   licensed under this file. All rights remain with their respective owners, and this license
+   grants no rights in any of it:
    - fonts in public/fonts/ (M PLUS Rounded 1c and Yusei Magic, each under its own license,
      the SIL Open Font License 1.1);
-   - the characters POPY, MEW and HALO and all images derived from them (public/chars/, public/bg/,
-     public/fx/);
-   - the song "サインはB", its lyrics, the vocal recording and data derived from them
-     (public/audio/, lyrics/).
+   - the characters POPY, MEW and HALO and all images derived from them, including the character
+     images, backgrounds and effect images in public/chars/, public/bg/ and public/fx/;
+   - the song "サインはB" and its lyrics, and data derived from them (lyrics/, src/data/).
+   The vocal recording is not included in this repository.
+   Do not copy, extract or reuse this material outside this project. If you are a rights holder
+   and want any of it removed from this repository, contact the copyright holder via the
+   repository's GitHub profile and it will be removed.
 
 5. No warranty
    THE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL
